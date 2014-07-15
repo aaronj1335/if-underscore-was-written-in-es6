@@ -1,0 +1,24 @@
+.reveal h1 {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.reveal h1 .line0 {
+  margin-bottom: 0.1em;
+}
+
+.reveal h1 .line1 {
+  margin-bottom: 0.1em;
+}
+
+.reveal h1 .line2 {
+  line-height: 0.8em;
+}
+
+.reveal h1 .line3 {
+  line-height: 1em;
+}
+
+.invisible {
+  visibility: hidden;
+}
