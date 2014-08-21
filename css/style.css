@@ -22,3 +22,7 @@
 .invisible {
   visibility: hidden;
 }
+
+.reveal pre code {
+  font-size: 20px;
+}
